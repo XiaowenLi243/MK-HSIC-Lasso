@@ -18,7 +18,7 @@ source $(conda info --base)/etc/profile.d/conda.sh
 Then open a terminal and clone this repository:
 
 ```
-git clone https://github.com/XiaowenLi243/MKHSICLasso.git
+git clone https://github.com/XiaowenLi243/MK-HSIC-Lasso.git
 ```
 
 Use `make` to create a conda environment and install all dependencies:
