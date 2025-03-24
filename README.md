@@ -24,7 +24,7 @@ git clone https://github.com/XiaowenLi243/MK-HSIC-Lasso.git
 Use `make` to create a conda environment and install all dependencies:
 
 ```
-cd hsic_optimization
+cd MK-HSIC-Lasso
 make venv
 ```
 
